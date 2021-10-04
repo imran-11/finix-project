@@ -1,0 +1,9 @@
+.BreadCrumb{
+    padding: 120px 0;
+    background-image: url(./image/contact.jpg); 
+}
+.breadcrumb-about{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
